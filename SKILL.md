@@ -2,7 +2,7 @@
 name: xiaohongshu-content-factory
 description: "小红书内容全流程生产：选题、文案、配图、排版、发布。"
 version: 0.1.0
-author: Your Name (github-username), Hermes Agent
+author: buguanhuayue, Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
